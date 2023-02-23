@@ -11,6 +11,7 @@
 
 
 -  技术招聘之怪相
+-  [如何有效评估技术候选人的 4 种方法？](Process/2023-02-23-How-to-Evaluate-Technical-Candidates-Effectively.md)
 -  如何撰写技术岗位 JD？
 -  如何可视化技术岗位 JD？
 -  招聘漏斗
