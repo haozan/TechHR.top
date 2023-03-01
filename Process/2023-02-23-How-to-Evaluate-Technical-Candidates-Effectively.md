@@ -51,7 +51,7 @@ Schmidt 和 Hunter 的研究是基于大规模的元分析（meta-analysis）对
 2. **Employment interviews（structured）结构化面试（有效性为 0.51）**
 3. GMA tests 一般认知能力测试（有效性为 0.51）
 
-研究结果表明，**一般认知能力测试**、**工作样本测试**和**结构化面试**是最有效的甄选方法，这些结论对程序员技能评估和招聘实践具有重要的指导意义。
+研究结果表明，**一般认知能力测试**、**工作样本测试**和**结构化面试**是最有效的评估方法，这些结论对程序员技能评估和招聘实践具有重要的指导意义。
 
 有效评估技术候选人的编码技能，如何运用工作样本测试和结构化面试呢？
 
@@ -181,6 +181,11 @@ Schmidt 和 Hunter 的研究是基于大规模的元分析（meta-analysis）对
 - 预面试之后的 HR 筛选环节，甚至可以省略。
 
 > 预面试不是传统笔试，是一种支持「工程实战」的新型技术笔试；而且流程上，也提前到 HR 筛选之前。
+
+针对预面试，我为你做了一段视频：
+
+<div style="position: relative; padding: 30% 45%;margin-top: 10px;margin-bottom: 10px"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=225327622&bvid=BV1Db411D7mB&cid=1032626311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+
 
 ## 总结
 
